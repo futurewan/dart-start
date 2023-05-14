@@ -30,6 +30,7 @@ void main() {
 
   print(p3 == p4);
 
+  //声明不可变对象，必须通过const关键字
   var p5 = const ImmutablePoint(1, 2);
   var p6 = const ImmutablePoint(1, 2);
 
