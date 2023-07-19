@@ -5,7 +5,7 @@ void main() {
     */
   /// 文档注释
 
-  // 生命整数
+  // 声明整数
   int number = 1;
   print(number);
 
